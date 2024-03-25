@@ -10,6 +10,7 @@ In NMDS analysis, a dissimilarity matrix is computed based on the pairwise dissi
 
 This low-dimensional representation can then be visualized using scatterplots or other graphical methods, allowing analysts to explore the underlying structure of the data and identify patterns or clusters. NMDS is especially useful when the data cannot be easily represented in a Euclidean space, or when the relationships between objects are non-linear or complex.  
 
+------------
 
 ## USER GUIDE
 ### DATA PREPROCESSING
