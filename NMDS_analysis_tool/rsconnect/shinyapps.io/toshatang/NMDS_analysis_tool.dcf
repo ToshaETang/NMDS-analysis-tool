@@ -1,0 +1,12 @@
+name: NMDS_analysis_tool
+title: NMDS_analysis_tool
+username: toshatang
+account: toshatang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11580556
+bundleId: 8414720
+url: https://toshatang.shinyapps.io/NMDS_analysis_tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -4,6 +4,7 @@ library(ggplot2)
 library(vegan)
 library(ggforce)
 library(DT)
+library(rsconnect)
 
 # Define UI
 ui <- fluidPage(
