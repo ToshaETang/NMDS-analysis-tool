@@ -4,6 +4,9 @@ URL：https://toshatang.shinyapps.io/NMDS_analysis_tool/
 
 ## USER GUIDE
 ### DATA PREPROCESSING
+
+![CSV](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV.png)   
+
 **1. Choose the CSV file you want to process.**  
    ![CSV_input_file_form](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV_input_file_form.png)  
    The file should looks like this.  
@@ -16,4 +19,6 @@ URL：https://toshatang.shinyapps.io/NMDS_analysis_tool/
    If two variables correspond, the field will be 1; otherwise, it will be 0.  
 
 ### NMDS ANALYSIS
-![CSV](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV.png)   
+If you wish, this feature can be used independently.  
+![NMDS](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/NMDS.png)  
+
