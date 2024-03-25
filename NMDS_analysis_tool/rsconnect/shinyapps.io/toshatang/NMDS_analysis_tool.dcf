@@ -5,7 +5,7 @@ account: toshatang
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11580556
-bundleId: 8414881
+bundleId: 8415606
 url: https://toshatang.shinyapps.io/NMDS_analysis_tool/
 version: 1
 asMultiple: FALSE

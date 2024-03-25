@@ -10,20 +10,6 @@ library(rsconnect)
 ui <- fluidPage(
   titlePanel("NMDS Analysis Tool"),
   tabsetPanel(
-    tabPanel("NMDS Visualization",
-             sidebarLayout(
-               sidebarPanel(
-                 fileInput("file_nmds", "Choose CSV File",
-                           accept = c("text/csv",
-                                      "text/comma-separated-values,text/plain",
-                                      ".csv")),
-                 helpText("Note: Please upload a CSV file with binary matrix data.")
-               ), 
-               mainPanel(
-                 plotOutput("nmdsPlot")
-               )
-             )
-    ),
     tabPanel("CSV Data Preprocessing",
              sidebarLayout(
                sidebarPanel(
@@ -38,6 +24,20 @@ ui <- fluidPage(
                  verbatimTextOutput("unique_variable_2"),
                  #DTOutput("binary_matrix"),
                  downloadButton("save_button", "Save Binary Matrix")
+               )
+             )
+    ),
+    tabPanel("NMDS Visualization",
+             sidebarLayout(
+               sidebarPanel(
+                 fileInput("file_nmds", "Choose CSV File",
+                           accept = c("text/csv",
+                                      "text/comma-separated-values,text/plain",
+                                      ".csv")),
+                 helpText("Note: Please upload a CSV file with binary matrix data.")
+               ), 
+               mainPanel(
+                 plotOutput("nmdsPlot")
                )
              )
     )
