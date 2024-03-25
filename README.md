@@ -6,7 +6,7 @@
 
 ---------------  
 
-## 📖 WHAT IS NMDS  
+## 🤔 WHAT IS NMDS  
 NMDS stands for Non-metric Multidimensional Scaling. It's a method used in statistics and data analysis to visualize the similarities or dissimilarities among a set of objects.  
 
 In NMDS analysis, a dissimilarity matrix is computed based on the pairwise dissimilarities between objects (e.g., species compositions in ecological studies, or any other kind of data where distances or dissimilarities can be computed). NMDS then finds a low-dimensional representation of the data, typically in two or three dimensions, while preserving the original dissimilarities as much as possible.  
@@ -15,7 +15,7 @@ This low-dimensional representation can then be visualized using scatterplots or
 
 ------------  
 
-## USER GUIDE
+## 📖 USER GUIDE
 ### DATA PREPROCESSING
 
 ![CSV](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV.png)   
@@ -43,7 +43,7 @@ Remember the binary matrix file should look like this.
 **2. See the NMDS result.**  
 
 ------------  
-## TRY YOURSELF  
+## 💪 TRY IT YOURSELF  
 1. Download the example file at **NMDS_analysis_tool/tryThisData.csv**
 2. Choose that file at **CSV Data Preprocessing** page.
 3. Choose **area** as variable_1 and **species** as variable_2.
