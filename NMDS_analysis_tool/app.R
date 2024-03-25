@@ -24,7 +24,7 @@ ui <- fluidPage(
                )
              )
     ),
-    tabPanel("CSV Viewer with Column Selection",
+    tabPanel("CSV Data Preprocessing",
              sidebarLayout(
                sidebarPanel(
                  fileInput("file_csv", "Choose CSV File",
