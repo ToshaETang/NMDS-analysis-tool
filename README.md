@@ -29,6 +29,7 @@ This low-dimensional representation can then be visualized using scatterplots or
    ![CSV_binary_matrix](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV_binary_matrix.png)    
    You will get the binary matrix file which looks like this.   
    If two variables correspond, the field will be 1; otherwise, it will be 0.  
+   The file name will be "binary_matrix_**yourInputFileName**.csv".  
 
 ### NMDS ANALYSIS  
 If you wish, this feature can be used independently.  
@@ -43,4 +44,5 @@ Remember the binary matrix file should look like this.
 ------------  
 ## TRY YOURSELF  
 1. Download the example file at **NMDS_analysis_tool/tryThisData.csv**
-2. Choose **area** as variable_1 and **species** variable_2.  
+2. Choose **area** as variable_1 and **species** as variable_2.
+3. Download the binary matrix file. (The file name will be **binary_matrix_tryThisData.csv**)  
