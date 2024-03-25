@@ -41,4 +41,6 @@ Remember the binary matrix file should look like this.
 **2. See the NMDS result.**  
 
 ------------  
-## TRY YOURSELF
+## TRY YOURSELF  
+1. Download the example file at **NMDS_analysis_tool/tryThisData.csv**
+2. Choose **area** as variable_1 and **species** variable_2.  
