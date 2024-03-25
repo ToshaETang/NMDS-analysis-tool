@@ -1,6 +1,5 @@
-"","the East","the North","the South","the West"
-"dwarf",1,1,1,0
-"elf",1,1,1,0
-"fairy",0,1,1,1
-"ogre",1,0,1,1
-"troll",0,1,0,1
+"","dwarf","elf","fairy","ogre","troll"
+"the East",1,1,0,1,0
+"the North",1,1,1,0,1
+"the South",1,1,1,1,0
+"the West",0,0,1,1,1
