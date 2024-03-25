@@ -3,6 +3,8 @@
 Use it online：https://toshatang.shinyapps.io/NMDS_analysis_tool/  
 Download it to local PC：https://github.com/ToshaETang/NMDS-analysis-tool/tree/main/NMDS_analysis_tool  
 
+---------------  
+
 ## WHAT IS NMDS  
 NMDS stands for Non-metric Multidimensional Scaling. It's a method used in statistics and data analysis to visualize the similarities or dissimilarities among a set of objects.  
 
@@ -10,7 +12,7 @@ In NMDS analysis, a dissimilarity matrix is computed based on the pairwise dissi
 
 This low-dimensional representation can then be visualized using scatterplots or other graphical methods, allowing analysts to explore the underlying structure of the data and identify patterns or clusters. NMDS is especially useful when the data cannot be easily represented in a Euclidean space, or when the relationships between objects are non-linear or complex.  
 
-------------
+------------  
 
 ## USER GUIDE
 ### DATA PREPROCESSING
@@ -37,3 +39,6 @@ Remember the binary matrix file should look like this.
 ![CSV_binary_matrix](https://github.com/ToshaETang/NMDS-analysis-tool/blob/main/picture/CSV_binary_matrix.png)    
 
 **2. See the NMDS result.**  
+
+------------  
+## TRY YOURSELF
