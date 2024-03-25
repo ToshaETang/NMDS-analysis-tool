@@ -1,7 +1,8 @@
 # NMDS-analysis-tool
 
-Use it online：https://toshatang.shinyapps.io/NMDS_analysis_tool/  
-Download it to local PC：https://github.com/ToshaETang/NMDS-analysis-tool/tree/main/NMDS_analysis_tool  
+**Use it online：** https://toshatang.shinyapps.io/NMDS_analysis_tool/  
+
+**Download it to local PC：** https://github.com/ToshaETang/NMDS-analysis-tool/tree/main/NMDS_analysis_tool  
 
 ---------------  
 
