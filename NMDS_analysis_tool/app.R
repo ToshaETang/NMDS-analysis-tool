@@ -18,7 +18,7 @@ ui <- fluidPage(
                                       "text/comma-separated-values,text/plain",
                                       ".csv")),
                  helpText("Note: Please upload a CSV file with binary matrix data.")
-               ),
+               ), 
                mainPanel(
                  plotOutput("nmdsPlot")
                )
